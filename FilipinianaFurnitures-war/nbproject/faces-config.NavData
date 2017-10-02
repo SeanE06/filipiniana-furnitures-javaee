@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="FabricTypeMenu.jsp" x="207" y="465" zoom="true"/>
+        <Node id="FabricTypeAdd.jsp" x="900" y="150" zoom="true"/>
+        <Node id="FabricPatternMenu.jsp" x="378" y="505" zoom="true"/>
+        <Node id="FrameworkDesignAdd.jsp" x="650" y="300" zoom="true"/>
+        <Node id="FabricTextureMenu.jsp" x="27" y="28" zoom="true"/>
+        <Node id="FabricTextureAdd.jsp" x="422" y="334" zoom="true"/>
+        <Node id="FrameworkMaterialMenu.jsp" x="772" y="295" zoom="true"/>
+        <Node id="Framework.jsp" x="650" y="150" zoom="true"/>
+        <Node id="FrameworkDesignMenu.jsp" x="150" y="300" zoom="true"/>
+        <Node id="MainMenu.jsp" x="400" y="150" zoom="true"/>
+        <Node id="Fabric.jsp" x="150" y="150" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
